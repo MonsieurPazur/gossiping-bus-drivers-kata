@@ -1,5 +1,5 @@
 {
-  "name": "michal/the-bowling-game-kata",
+  "name": "michal/gossiping-bus-drivers-kata",
   "require": {
     "phpunit/phpunit": "^8.1"
   },
